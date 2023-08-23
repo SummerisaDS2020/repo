@@ -1,13 +1,13 @@
 > Final
 
-<pre align="right">起始于2016年11月20日</br>已废...</pre> 
-                     
+<pre align="right">起始于2016年11月20日</br>已废...</pre>
+# This file comes from Github                   
 
 
 
 * **`Android`**
     * **`常规知识`**
-        * [5.0特性Verctor2SVG](http://suzeyu.com/2016/05/19/5.0%E7%89%B9%E6%80%A7Verctor2SVG/) 
+        * [5.0特性Verctor2SVG](http://suzeyu.com/2016/05/19/5.0%E7%89%B9%E6%80%A7Verctor2SVG/)
         * [Android 中如何使用annotion替代Enum](http://suzeyu.com/2016/05/20/Android-%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8annotion%E6%9B%BF%E4%BB%A3Enum/)
         * [mac系统android编译源码](http://suzeyu.com/2016/07/12/mac%E7%B3%BB%E7%BB%9Fandroid%E7%BC%96%E8%AF%91%E6%BA%90%E7%A0%81/)
         * [Android Studio 快捷键 mac版](http://suzeyu.com/2016/05/20/Android-Studio-%E5%BF%AB%E6%8D%B7%E9%94%AE-mac/)
@@ -15,17 +15,17 @@
         * [Android绘图篇-01 Canvas和Paint的基础使用](http://suzeyu.com/2016/07/05/Android-%E7%BB%98%E5%9B%BE%E7%AF%87-1-Canvas%E5%92%8CPaint%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8/)
     * **`framework`**
         * [深入WindowManager](http://suzeyu.com/2016/11/28/%E6%B7%B1%E5%85%A5WindowManager/)
-        * [认知WindowManagerService](http://suzeyu.com/2016/11/28/WindowManagerService/) 
+        * [认知WindowManagerService](http://suzeyu.com/2016/11/28/WindowManagerService/)
         * [了解Binder是如何撑起Android系统运行](http://suzeyu.com/2017/02/08/%E9%9D%A2%E8%AF%95%E4%B9%8BBinder%E7%9A%84%E8%AE%A4%E7%9F%A5/)  
         * [Android系统的启动简述](http://suzeyu.com/2017/02/09/Android%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/)
 * **`Java`**
 * **`小技巧小姿势`**
-    * [git命令小手册](https://github.com/suzeyu1992/repo/tree/master/project/git) 
+    * [git命令小手册](https://github.com/suzeyu1992/repo/tree/master/project/git)
     * [Android Studio高效使用](http://suzeyu.com/2016/12/17/Android-Studio-%E5%B8%B8%E7%94%A8%E6%89%8B%E5%86%8C/)
     * [shell命令常用小手册](http://suzeyu.com/2016/12/26/shell%E5%B8%B8%E7%94%A8%E5%B0%8F%E6%89%8B%E5%86%8C/)
     * [vim常用手册](http://suzeyu.com/2016/12/27/vim%E5%B8%B8%E7%94%A8%E7%AC%94%E8%AE%B0/)
 * **`数据结构`**
-    * [算法的介绍](http://suzeyu.com/2017/01/01/%E8%AE%A4%E7%9F%A5%E7%AE%97%E6%B3%95/) 
+    * [算法的介绍](http://suzeyu.com/2017/01/01/%E8%AE%A4%E7%9F%A5%E7%AE%97%E6%B3%95/)
     * [结构之-线性表](http://suzeyu.com/2017/01/04/%E7%BA%BF%E6%80%A7%E8%A1%A8/)
     * [结构之-栈和队列](http://suzeyu.com/2017/01/06/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/)
 * **`设计模式`**
@@ -34,7 +34,7 @@
     * [设计模式与Android(篇二)](https://github.com/suzeyu1992/repo/tree/master/project/design-pattern/%E7%9E%B0-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8EAndroid(%E7%AF%87%E4%BA%8C))
     * [设计模式与Android(篇三)](https://github.com/suzeyu1992/repo/tree/master/project/design-pattern/%E7%9E%B0-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8EAndroid(%E7%AF%87%E4%B8%89))
 * **`mySql`**
-    * [MySQL(一)--数据库入门](http://suzeyu.com/2016/05/15/MySQL-%E4%B8%80-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%A5%E9%97%A8/) 
+    * [MySQL(一)--数据库入门](http://suzeyu.com/2016/05/15/MySQL-%E4%B8%80-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%A5%E9%97%A8/)
     * [MySQL(二)--基本查询语句](http://suzeyu.com/2016/05/16/MySQL-%E4%BA%8C-%E5%9F%BA%E6%9C%AC%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5/)
     * [MySQL(三)--子查询](http://suzeyu.com/2016/05/17/MySQL-%E4%B8%89-%E5%AD%90%E6%9F%A5%E8%AF%A2/)
     * [MySql(四)--数据控制语言控制器等](http://suzeyu.com/2016/05/18/MySql-%E5%9B%9B-%E6%95%B0%E6%8D%AE%E6%8E%A7%E5%88%B6%E8%AF%AD%E8%A8%80%E6%8E%A7%E5%88%B6%E5%99%A8%E7%AD%89/)
@@ -43,14 +43,14 @@
     * [PHP(二)-php基础语法](http://suzeyu.com/2016/04/16/PHP(%E4%BA%8C)-php%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/)
     * [PHP(三)-载入文件和错误处理](http://suzeyu.com/2016/04/17/PHP(%E4%B8%89)-%E8%BD%BD%E5%85%A5%E6%96%87%E4%BB%B6%E5%92%8C%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/)
     * [PHP(四)-函数 数组介绍](http://suzeyu.com/2016/04/18/PHP-%E5%9B%9B-%E5%87%BD%E6%95%B0-%E6%95%B0%E7%BB%84%E4%BB%8B%E7%BB%8D/)
-    * 太监了... 
+    * 太监了...
 * **`js`**
     * [基础篇(一)-JS简单介绍](http://suzeyu.com/2016/04/10/%E5%9F%BA%E7%A1%80%E7%AF%87(%E4%B8%80)-JS%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D/)
     * [基础篇(二)-JS基本语法](http://suzeyu.com/2016/04/11/%E5%9F%BA%E7%A1%80%E7%AF%87(%E4%BA%8C)-JS%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/)
     * [基础篇(三)-JS对象使用](http://suzeyu.com/2016/04/12/%E5%9F%BA%E7%A1%80%E7%AF%87(%E4%B8%89)-JS%E5%AF%B9%E8%B1%A1%E4%BD%BF%E7%94%A8/)
     * [基础篇(四)-JS-BOM](http://suzeyu.com/2016/04/13/%E5%9F%BA%E7%A1%80%E7%AF%87(%E5%9B%9B)-JS-BOM/)
     * [基础篇(五)-JS-DOM](http://suzeyu.com/2016/04/14/%E5%9F%BA%E7%A1%80%E7%AF%87(%E4%BA%94)-JS-DOM/)
-    * [基础篇(六)-HTML5介绍](http://suzeyu.com/2016/04/16/%E5%9F%BA%E7%A1%80%E7%AF%87(%E5%85%AD)-HTML5%E4%BB%8B%E7%BB%8D/) 
+    * [基础篇(六)-HTML5介绍](http://suzeyu.com/2016/04/16/%E5%9F%BA%E7%A1%80%E7%AF%87(%E5%85%AD)-HTML5%E4%BB%8B%E7%BB%8D/)
 * **`抄书笔记`**
     * [《Android 开发艺术探索》 01-Activity的生命周期和模式](http://suzeyu.com/2016/08/01/Android%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2-%E7%AC%94%E8%AE%B001-Activity%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%92%8C%E6%A8%A1%E5%BC%8F/)   
     * [《Android 开发艺术探索》 02-IPC机制](http://suzeyu.com/2016/08/02/Android%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2-%E7%AC%94%E8%AE%B002-IPC%E6%9C%BA%E5%88%B6/)
@@ -83,9 +83,3 @@
     * [《Android编程权威指南》随记二 Fragment的概括](http://suzeyu.com/2016/09/08/%E3%80%8AAndroid%E7%BC%96%E7%A8%8B%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B%E9%9A%8F%E8%AE%B0%E4%BA%8C-Fragment%E7%9A%84%E6%A6%82%E6%8B%AC/)
     * [《Android编程权威指南》随记三 媒体与Intent等](http://suzeyu.com/2016/09/09/%E3%80%8AAndroid%E7%BC%96%E7%A8%8B%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B%E9%9A%8F%E8%AE%B0%E4%B8%89-%E5%AA%92%E4%BD%93%E4%B8%8EIntent%E7%AD%89/)
     * [《Android编程权威指南》随记四 组件等](http://suzeyu.com/2016/09/10/%E3%80%8AAndroid%E7%BC%96%E7%A8%8B%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B%E9%9A%8F%E8%AE%B0%E5%9B%9B-%E7%BB%84%E4%BB%B6%E7%AD%89/)
-    
-
-
-
-
-
